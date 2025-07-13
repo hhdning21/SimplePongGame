@@ -1,4 +1,5 @@
 # SimplePongGame
+Originally created by https://www.ponggame.org/
 ### A simple Pong Game with Mouse interaction with AI Computer player.
 The player(you) can control the `left` paddle by your mouse.
 The `right` paddle will be controlled by a basic AI.
