@@ -7,7 +7,7 @@ const HEIGHT = canvas.height;
 // Paddle
 const PADDLE_WIDTH = 12;
 const PADDLE_HEIGHT = 90;
-const PADDLE_SPEED = 6;
+const PADDLE_SPEED = 10;
 
 // Ball
 const BALL_SIZE = 16;
